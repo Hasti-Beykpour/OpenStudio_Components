@@ -1,0 +1,35 @@
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="component.xsd">
+ <schema_version/>
+ <name>SET01</name>
+ <uid>c7cac7e0-f958-4bbe-b9e9-a162a5644cbf</uid>
+ <version_id>4c16c72c-f110-44b0-ae01-41277cb16a89</version_id>
+ <xml_checksum/>
+ <display_name>Tehran-WallconstructionSET-WallSET01</display_name>
+ <description>This is a construction for common building walls in Tehran city base on code19</description>
+ <modeler_description>This is a more technical description aimed at modelers</modeler_description>
+ <tags>
+  <tag>Exterior Wall</tag>
+ </tags>
+ <attributes>
+  <attribute>
+   <name>country</name>
+   <value>Iran</value>
+   <datatype>string</datatype>
+  </attribute>
+  <attribute>
+   <name>Climate Zone</name>
+   <value>3B</value>
+   <datatype>string</datatype>
+  </attribute>
+ </attributes>
+ <files>
+  <file>
+   <version>
+    <software_program>OpenStudio</software_program>
+    <identifier>3.2.1</identifier>
+   </version>
+   <filename>SET01TehranExWall.osm</filename>
+   <filetype>osm</filetype>
+  </file>
+ </files>
+</component>
